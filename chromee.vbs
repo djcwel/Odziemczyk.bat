@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\Users\student\Videos\Captures\cwel.bat", 0, False
